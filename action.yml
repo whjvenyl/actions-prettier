@@ -1,4 +1,4 @@
-name: actionsx/prettier
+name: actions-prettier
 description: 🔨 Native, blazingly-fast Prettier CLI on Github Actions
 branding:
   icon: align-justify

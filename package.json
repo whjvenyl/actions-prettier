@@ -1,5 +1,5 @@
 {
-  "name": "prettier-actions",
+  "name": "actions-prettier",
   "version": "0.0.0",
   "scripts": {
     "build": "ncc build index.js",

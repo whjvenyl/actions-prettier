@@ -1,4 +1,4 @@
-# 🔨 actionsx/prettier
+# 🔨 actions-prettier
 
 [![Checks status][checks status]][checks url]
 [![Dependabot status][dependabot status]][dependabot url]
@@ -16,7 +16,7 @@ or any dependency in advance.
 
 ```yml
 - uses: actions/checkout@v2 # Check out the repository first.
-- uses: actionsx/prettier@v2
+- uses: actions-prettier
   with:
     # prettier CLI arguments.
     args: --check .
@@ -29,14 +29,14 @@ This project is licensed under the [MIT License][license url].
 <!-- Links -->
 
 [checks status]:
-  https://img.shields.io/github/checks-status/actionsx/prettier/master?logo=Github
+  https://img.shields.io/github/checks-status/whjvenyl/actions-prettier/master?logo=Github
 [dependabot status]:
   https://img.shields.io/badge/dependabot-enabled-025e8c?logo=Dependabot
-[license badge]: https://img.shields.io/github/license/actionsx/prettier
+[license badge]: https://img.shields.io/github/license/whjvenyl/actions-prettier
 [code style]:
   https://img.shields.io/badge/code%20style-prettier-F7B93E?logo=Prettier
 [checks url]:
-  https://github.com/actionsx/prettier/actions?query=workflow%3ACI+branch%3Amaster
+  https://github.com/whjvenyl/actions-prettier/actions?query=workflow%3ACI+branch%3Amaster
 [dependabot url]: /.github/dependabot.yml
 [code style url]: /.prettierrc.json
 [license url]: /LICENSE
