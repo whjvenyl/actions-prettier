@@ -1,6 +1,7 @@
 {
   "name": "actions-prettier",
   "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "build": "ncc build index.js",
     "check": "prettier --check .",
